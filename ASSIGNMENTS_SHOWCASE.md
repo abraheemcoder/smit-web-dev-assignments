@@ -41,67 +41,66 @@
 - **Repository:** Web-Dev-Assignments/CSS-Assignments
 
 ### Assignment 01 – Periodic Table
+- GitHub: https://github.com/abraheemcoder/Periodic_Table.git
+- Live Demo:
+
+### Assignment 02 – Amazon Clone UI
+- GitHub: https://github.com/abraheemcoder/Amazon_Clone_UI.git
+- Live Demo:
+
+### Assignment 03 – Login Page UI
+- GitHub: https://github.com/abraheemcoder/Login_Page_UI.git
+- Live Demo:
+
+### Assignment 04 – Contact us Page UI
+- GitHub: https://github.com/abraheemcoder/Contact_us_Page_UI.git
+- Live Demo:
+
+### Assignment 05 –  Website Layout UI
+- GitHub: https://github.com/abraheemcoder/Website_Layout_UI.git
+- Live Demo:
+
+### Assignment 06 – Profile Card
+- GitHub: https://github.com/abraheemcoder/Profile_Card.git
+- Live Demo:
+
+### Assignment 07 – Apple Store Clone UI
+- GitHub: https://github.com/abraheemcoder/Apple_Store_Clone_UI.git
+- Live Demo:
+
+### Assignment 08 – Flexbox Froggy Game - All Levels Solution
 - GitHub:
 - Live Demo:
 
-### Assignment 02 – Periodic Table
+### Assignment 09 – Facebook Login Page UI
 - GitHub:
 - Live Demo:
 
-### Assignment 03 – Periodic Table
+### Assignment 10 – Saylanie Clone UI
 - GitHub:
 - Live Demo:
 
-### Assignment 04 – Periodic Table
+### Assignment 11 – Grid Garden Game - All Levels Solution
 - GitHub:
 - Live Demo:
 
-### Assignment 05 – Periodic Table
+### Assignment 12 – Facebook Signup Page UI
 - GitHub:
 - Live Demo:
 
-### Assignment 06 – Periodic Table
+### Assignment 13 – Website UI using Boostrap
 - GitHub:
 - Live Demo:
 
-### Assignment 07 – Periodic Table
+### Assignment 14 – Facebook Clone UI
 - GitHub:
 - Live Demo:
 
-### Assignment 08 – Periodic Table
+### Assignment 15 – Upwork Clone UI
 - GitHub:
 - Live Demo:
 
-### Assignment 09 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 10 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 11 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 12 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 13 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 14 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 15 – Periodic Table
-- GitHub:
-- Live Demo:
-
-### Assignment 16 – Periodic Table
-- GitHub:
+### Assignment 16 – LinkedIn Clone UI
 - Live Demo:
 
 ...
