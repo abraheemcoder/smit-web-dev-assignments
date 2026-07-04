@@ -129,7 +129,7 @@ console.log("===================================");
 const user = {
   name: "Hasan",
   age: 23,
-  city: "Lahore",
+  city: "Lahore"
 };
 const { name, age } = user;
 console.log(name);
@@ -149,7 +149,7 @@ console.log(age);
 
 const student = {
   name: "Ayesha",
-  class: "10th",
+  class: "10th"
 };
 const { name: studentName, class: studentClass } = student;
 console.log(studentName);
@@ -160,14 +160,14 @@ console.log(studentClass);
 // Q10
 // Use default value.
 // const employee = {
-// name: "Ahmed"
+// name1: "Ahmed"
 // };
 // Expected:
 // Ahmed
 // 50000
 
 const employee = {
-  name1: "Ahmed",
+  name1: "Ahmed"
 };
 const { name1, salary = 50000 } = employee;
 console.log(name1);
@@ -192,11 +192,11 @@ const person = {
   name: "Ali",
   address: {
     city: "Karachi",
-    country: "Pakistan",
+    country: "Pakistan"
   },
 };
 const {
-  address: { city, country },
+  address: { city, country }
 } = person;
 console.log(city);
 console.log(country);
@@ -215,7 +215,7 @@ console.log(country);
 const product = {
   title: "Laptop",
   price: 80000,
-  brand: "Dell",
+  brand: "Dell"
 };
 const { title, price, brand } = product;
 console.log(title);
@@ -235,7 +235,7 @@ console.log(brand);
 const account = {
   username: "coder123",
   email: "coder@gmail.com",
-  password: "12345",
+  password: "12345"
 };
 const { email } = account;
 console.log(email);
@@ -253,10 +253,10 @@ console.log(email);
 // Sara
 
 const company = {
-  employees: ["Ali", "Ahmed", "Sara"],
+  employees: ["Ali", "Ahmed", "Sara"]
 };
 const {
-  employees: [employeeName1, employeeName2, employeeName3],
+  employees: [employeeName1, employeeName2, employeeName3]
 } = company;
 console.log(employeeName1);
 console.log(employeeName2);
@@ -264,120 +264,134 @@ console.log(employeeName3);
 
 // ===================================
 
-// 📌 Rest Operator (3 Questions)
+// Rest Operator - 3 Questions
+
+console.log("===================================");
+console.log("Rest Operator");
+console.log("===================================");
 
 // ===================================
 
-// Question 15
+// Q15
 // Collect remaining values.
-
-// const numbers = [1,2,3,4,5];
-
-// Expected
-
+// const number = [1,2,3,4,5];
+// Expected:
 // 1
-
 // 2
-
 // [3,4,5]
 
+const number = [1, 2, 3, 4, 5];
+const [num01, num02, ...remainNums] = number;
+console.log(num01);
+console.log(num02);
+console.log(remainNums);
+
 // ===================================
 
-// Question 16
+// Q16
 // Collect remaining object properties.
-
-// const user = {
-
-// name: "Hasan",
-
+// const userInfo = {
+// username: "Hasan",
 // age: 22,
-
 // city: "Lahore",
-
 // country: "Pakistan"
-
 // };
-
-// Expected
-
-// name
-
+// Expected:
+// username
 // remaining object
 
+const userInfo = {
+  username: "Hasan",
+  age: 22,
+  city: "Lahore",
+  country: "Pakistan"
+};
+const { username, ...remainInfo } = userInfo;
+console.log(username);
+console.log(remainInfo);
+
 // ===================================
 
-// Question 17
+// Q17
 // Create a function using Rest Parameters.
-
-// Example
-
+// Example:
 // sum(10,20,30,40);
-
-// Expected Output
-
+// Expected Output:
 // 100
-
 // Hint:
+// Use function sum(...sumNums)
 
-// Use
-
-// function sum(...numbers)
+function sum(...sumNums) {
+  let sumTotal = 0;
+  for (const num of sumNums) {
+    sumTotal += num;
+  }
+  return sumTotal;
+}
+console.log(sum(10, 20, 30, 40));
 
 // ===================================
 
-// 📌 Spread Operator (3 Questions)
+// Spread Operator - 3 Questions
+
+console.log("===================================");
+console.log("Spread Operator");
+console.log("===================================");
 
 // ===================================
 
-// Question 18
+// Q18
 // Merge two arrays.
-
 // const frontend = ["HTML", "CSS"];
-
 // const backend = ["Node", "MongoDB"];
-
-// Expected
-
+// Expected:
 // ["HTML","CSS","Node","MongoDB"]
 
+const frontend = ["HTML", "CSS"];
+const backend = ["Node", "MongoDB"];
+const fullStack = [...frontend, ...backend];
+console.log(fullStack);
+
 // ===================================
 
-// Question 19
+// Q19
 // Copy an array.
-
 // const fruits = ["Apple","Banana","Orange"];
-
 // Create a new copy using the spread operator.
 
+const fruitsArr = ["Apple", "Banana", "Orange"];
+const fruitsCopy = [...fruitsArr];
+console.log(fruitsCopy);
+
 // ===================================
 
-// Question 20
+// Q20
 // Merge two objects.
-
 // const user = {
-
 // name: "Hasan"
-
 // };
-
 // const details = {
-
 // age: 22,
-
 // city: "Lahore"
-
 // };
-
-// Expected
-
+// Expected:
 // {
-
 // name: "Hasan",
-
 // age: 22,
-
 // city: "Lahore"
-
 // }
+
+const user1 = {
+  name: "Hasan"
+};
+const details = {
+  age: 22,
+  city: "Lahore"
+};
+const userData = {
+  ...user1,
+  ...details
+};
+console.log(userData);
 
 // ===================================
