@@ -1,1 +1,1 @@
-# My All SMIT Web Dev Assignment are here.
+# My All SMIT - Web Dev Assignment are here.
