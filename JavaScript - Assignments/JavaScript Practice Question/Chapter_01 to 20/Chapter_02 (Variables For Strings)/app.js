@@ -89,9 +89,9 @@ alert(`I am trying to learn from the book: ${bookName}`);
 // Write a script to display this message in browser through JS.
 // Msg: Yah! I can write HTML content through JavaScript.
 const msg = "Yah! I can write HTML content through JavaScript.";
-const h1Element = document.createElement("h1");
-h1Element.append(msg);
-document.body.append(h1Element);
+const q8Output = document.createElement("p");
+q8Output.append(msg);
+document.body.append(q8Output);
 
 // ===================================
 
@@ -100,6 +100,6 @@ document.body.append(h1Element);
 // String: "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"
 const designStr = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 alert(designStr);
-const h2Element = document.createElement("h2");
-h2Element.append(designStr);
-document.body.append(h2Element);
+const q9Output = document.createElement("p");
+q9Output.append(designStr);
+document.body.append(q9Output);
