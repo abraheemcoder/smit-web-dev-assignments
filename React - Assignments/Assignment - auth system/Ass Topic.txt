@@ -1,0 +1,29 @@
+1. Tailwind, Material UI, Styled Components OverView
+
+2. Effects and Data Fetching in React
+Component LifeCycle
+Wrong ways of Fetching Data
+UseEffect in detail and benefits
+UseEffect dependency Array
+Async Function handling
+UseEffect Cleanup
+
+3. State, Events, Forms
+What is State?
+How to handle Events in React?
+UseState in Depth
+State vs Props
+State Management
+Props Passing Parent to Child
+Props Passing Child to Parent
+
+4. Components , Props and JSX
+How React is Rendered
+What is Strict Mode
+Components and its Re-useability
+What is JSX
+Styling in JSX
+Rendering Lists
+Conditional Rendering
+Props Destructuring
+React Fragments

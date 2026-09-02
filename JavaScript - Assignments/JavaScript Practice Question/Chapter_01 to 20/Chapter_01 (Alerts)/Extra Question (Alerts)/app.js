@@ -21,7 +21,7 @@ alert("Hello Abdul Raheem!");
 // Q3
 // Display the message:
 // Msg: Good Morning!
- 
+
 alert("Good Morning!");
 
 // ===================================
@@ -29,7 +29,7 @@ alert("Good Morning!");
 // Q4
 // Display the message:
 // Msg: Have a Nice Day!
- 
+
 alert("Have a Nice Day!");
 
 // ===================================
@@ -37,7 +37,7 @@ alert("Have a Nice Day!");
 // Q5
 // Display the message:
 // Msg: Thank you for visiting our website.
- 
+
 alert("Thank you for visiting our website.");
 
 // ===================================
@@ -49,7 +49,7 @@ alert("Thank you for visiting our website.");
 // Q6
 // Display the message:
 // Msg: Warning! Battery is low.
- 
+
 alert("Warning! Battery is low.");
 
 // ===================================
@@ -57,7 +57,7 @@ alert("Warning! Battery is low.");
 // Q7
 // Display the message:
 // Msg: Error! Something went wrong.
- 
+
 alert("Error! Something went wrong.");
 
 // ===================================
@@ -65,7 +65,7 @@ alert("Error! Something went wrong.");
 // Q8
 // Display the message:
 // Msg: Please login first.
- 
+
 alert("Please login first.");
 
 // ===================================
@@ -73,7 +73,7 @@ alert("Please login first.");
 // Q9
 // Display the message:
 // Msg: Access Denied!
- 
+
 alert("Access Denied!");
 
 // ===================================
@@ -81,7 +81,7 @@ alert("Access Denied!");
 // Q10
 // Display the message:
 // Msg: Invalid Username or Password.
- 
+
 alert("Invalid Username or Password.");
 
 // ===================================
@@ -95,7 +95,7 @@ alert("Invalid Username or Password.");
 // Alert: Welcome!
 // then:
 // Alert: Let's Learn JavaScript.
- 
+
 alert("Welcome!");
 alert("Let's Learn JavaScript.");
 
@@ -106,7 +106,7 @@ alert("Let's Learn JavaScript.");
 // Msg: Loading...
 // then:
 // Msg: Done!
- 
+
 alert("Loading...");
 alert("Done!");
 
@@ -119,7 +119,7 @@ alert("Done!");
 // Msg: Step 2 Complete
 // then:
 // Msg: Finished!
- 
+
 alert("Step 1 Complete");
 alert("Step 2 Complete");
 alert("Finished!");
@@ -131,7 +131,7 @@ alert("Finished!");
 // Msg: Happy Coding!
 // then:
 // Msg: Keep Practicing!
- 
+
 alert("Happy Coding!");
 alert("Keep Practicing!");
 
@@ -144,7 +144,7 @@ alert("Keep Practicing!");
 // Alert 2
 // then:
 // Alert 3
- 
+
 alert("Alert 1");
 alert("Alert 2");
 alert("Alert 3");
@@ -160,7 +160,7 @@ alert("Alert 3");
 // Msg: Welcome
 //      to
 //      JavaScript
- 
+
 alert("Welcome\nto\nJavaScript");
 
 // ===================================
@@ -169,7 +169,7 @@ alert("Welcome\nto\nJavaScript");
 // Display the message:
 // Msg: Name:
 //      Abdul Raheem
- 
+
 alert("Name:\nAbdul Raheem");
 
 // ===================================
@@ -178,7 +178,7 @@ alert("Name:\nAbdul Raheem");
 // Display the message:
 // Msg: Error!
 //      Please try again.
- 
+
 alert("Error!\nPlease try again.");
 
 // ===================================
@@ -188,7 +188,7 @@ alert("Error!\nPlease try again.");
 // Msg: HTML
 //      CSS
 //      JavaScript
- 
+
 alert("HTML\nCSS\nJavaScript");
 
 // ===================================
@@ -199,7 +199,7 @@ alert("HTML\nCSS\nJavaScript");
 //      Line 2
 //      Line 3
 //      Line 4
- 
+
 alert("Line 1\nLine 2\nLine 3\nLine 4");
 
 // ===================================
@@ -211,15 +211,15 @@ alert("Line 1\nLine 2\nLine 3\nLine 4");
 // Q21
 // Display the message:
 // Msg: She said "Hello!"
- 
-alert("She said \"Hello!\"");
+
+alert('She said "Hello!"');
 
 // ===================================
 
 // Q22
 // Display the message:
 // Msg: I'm learning JavaScript.
- 
+
 alert("I'm learning JavaScript.");
 
 // ===================================
@@ -227,23 +227,23 @@ alert("I'm learning JavaScript.");
 // Q23
 // Display the message:
 // Msg: He said, "I'm Ready!"
- 
-alert("He said, \"I'm Ready!\"");
+
+alert('He said, "I\'m Ready!"');
 
 // ===================================
 
 // Q24
 // Display the message:
 // Msg: Use "alert()" to show messages.
- 
-alert("Use \"alert()\" to show messages.");
+
+alert('Use "alert()" to show messages.');
 
 // ===================================
 
 // Q25
 // Display the message:
 // Msg: Don't forget to save your work.
- 
+
 alert("Don't forget to save your work.");
 
 // ===================================
@@ -256,7 +256,7 @@ alert("Don't forget to save your work.");
 // Display the message:
 // Msg: Folder:
 //      C:\Users\Abdul\Desktop
- 
+
 alert("Folder:\nC:\\Users\\Abdul\\Desktop");
 
 // ===================================
@@ -264,7 +264,7 @@ alert("Folder:\nC:\\Users\\Abdul\\Desktop");
 // Q27
 // Display the message:
 // Msg: Price: $100
- 
+
 alert("Price: $100");
 
 // ===================================
@@ -272,7 +272,7 @@ alert("Price: $100");
 // Q28
 // Msg: Welcome\tJavaScript
 // (using a tab)
- 
+
 alert("Welcome\tJavaScript");
 
 // ===================================
@@ -284,7 +284,6 @@ alert("Welcome\tJavaScript");
 //      City: Karachi
 // (each on a new line)
 
- 
 alert("Name: Abdul Raheem\nAge: 20\nCity: Karachi");
 
 // ===================================
@@ -292,12 +291,12 @@ alert("Name: Abdul Raheem\nAge: 20\nCity: Karachi");
 // Q30
 // Display the message:
 // Msg: Hello!
-// 
+//
 //      Welcome to JS.
-// 
+//
 //      Happy Coding!
 // (with blank lines)
- 
+
 alert("Hello!\n\nWelcome to JS.\n\nHappy Coding!");
 
 // ===================================
@@ -313,7 +312,7 @@ alert("Hello!\n\nWelcome to JS.\n\nHappy Coding!");
 //      Happy Coding!
 
 //      Keep Learning!
- 
+
 alert("Welcome to JS Land...\n\nHappy Coding!\n\nKeep Learning!");
 
 // ===================================
@@ -323,7 +322,7 @@ alert("Welcome to JS Land...\n\nHappy Coding!\n\nKeep Learning!");
 // Msg: "JavaScript"
 //      is
 //      awesome!
- 
+
 alert('"JavaScript"\nis\nawesome!');
 
 // ===================================
@@ -335,14 +334,16 @@ alert('"JavaScript"\nis\nawesome!');
 //      Name: Abdul
 //      Age: 20
 //      Course: Web Development
- 
-alert("Student Details\n\nName: Abdul Raheem\nAge: 20\nCourse: Web Development");
+
+alert(
+  "Student Details\n\nName: Abdul Raheem\nAge: 20\nCourse: Web Development"
+);
 
 // ===================================
 
 // Challenge 4
 // Show **five alerts** one after another.
- 
+
 alert("Welcome");
 alert("Loading...");
 alert("Checking...");
@@ -358,7 +359,7 @@ alert("Finished!");
 // Alert 3: Connecting...
 // Alert 4: Success!
 // Alert 5: Welcome User!
- 
+
 alert("Starting System...");
 alert("Loading Files...");
 alert("Connecting...");
@@ -377,7 +378,7 @@ alert("Welcome User!");
 // At least **2 alerts** containing apostrophes (`'`)
 // At least **1 alert** with a Windows file path (using escaped backslashes `\\`)
 // All alerts should display without any syntax errors
- 
+
 alert("Hello\nUser!");
 alert("Hello\nGamer!");
 alert("Hello\nWorld!");

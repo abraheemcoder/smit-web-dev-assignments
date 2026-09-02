@@ -1,34 +1,31 @@
+// Variables for strings
+
+// ===================================
+
 // Q1
 // Declare a variable called username.
-
 let username;
 console.log(username);
 
 // ===================================
 
 // Q2
-// Declare a variable called myName & assign to it a string that represents your Full Name. 
-
-let myName = "Abdul Raheem";
-console.log(myName);
+// Declare a variable called myName & assign to it a string that represents your Full Name.
+const myName = "Abdul Raheem";
+console.log(myName); 
 
 // ===================================
 
 // Q3
 // Write script to:
-// a) Declare a JS variable,titled message.
-// b) Assign “Hello World” to variable message.
-// c) Display the message in alert box. 
-
-// a
+// a. Declare a JS variable,titled message.
+// b. Assign “Hello World” to variable message.
+// c. Display the message in alert box.
+// a.
 let message;
-console.log(message);
-
-// b
+// b.
 message = "Hello World";
-console.log(message);
-
-//c
+// c.
 alert(message);
 
 // ===================================
@@ -38,26 +35,24 @@ alert(message);
 // Data: Name = Abdul Raheem
 //       Age = 20 years old
 //       Course = Full Stack Web Development
-
-let fullName = "Abdul Raheem";
-let age = "20 years old";
-let course = "Full Stack Web Development";
-alert (fullName);
-alert (age);
-alert (course);
+const fullName = "Abdul Raheem";
+const age = "20 years old";
+const course = "Full Stack Web Development";
+alert(fullName);
+alert(age);
+alert(course);
 
 // ===================================
 
-// Q5 
+// Q5
 // Write a script to display the following alert using one JS variable:
 // Alert: PIZZA
 //        PIZZ
 //        PIZ
 //        PI
 //        P
-
-let pizzaPattern = "PIZZA\nPIZZ\nPIZ\nPI\nP";
-alert (pizzaPattern);
+const pizzaPattern = "PIZZA\nPIZZ\nPIZ\nPI\nP";
+alert(pizzaPattern);
 
 // ===================================
 
@@ -65,50 +60,46 @@ alert (pizzaPattern);
 // Declare a variable called email and assign to it a string that represents your Email Address (e.g. example@example.com).
 // Display the following message in alert box.(Hint: use string concatenation)
 // Msg: My email address is abraheem22468@gmail.com
-
 // string concatenation: joining two or more strings together to make one single string.
 // 3 main Method: • + Operator (Most Common Way)
 //                • += Operator
 //                • Template Literals (Modern & Best Way)
-
 // + Operator
-let email = "abraheem22468@gmail.com";
-alert ("My email address is " + email);
-
+const email = "abraheem22468@gmail.com";
+alert("My email address is " + email);
 // += Operator
-let emailSecondOperator = "My email address is ";
-emailSecondOperator += "abraheem22468@gmail.com";
-alert (emailSecondOperator);
-
+let emailAddStoreOper = "My email address is ";
+emailAddStoreOper += email;
+alert(emailAddStoreOper);
 // Template Literals
-let emailAddress = "abraheem22468@gmail.com";
-let emailThirdOperator = `My email address is ${emailAddress}`;
-alert (emailThirdOperator);
+const emailTempLiterals = `My email address is ${email}`;
+alert(emailTempLiterals);
 
 // ===================================
 
 // Q7
 // Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the following message in an alert box:
 // Msg: I am trying to learn from the book: "A smarter way to learn JavaScript"
-
-let book = '"A smarter way to learn JavaScript"';
-alert("I am trying to learn from the book: " + book);
+const bookName = "A smarter way to learn JavaScript";
+alert(`I am trying to learn from the book: ${bookName}`);
 
 // ===================================
 
 // Q8
-// Write a script to display this message in console.
+// Write a script to display this message in browser through JS.
 // Msg: Yah! I can write HTML content through JavaScript.
-
-let msg = "Yah! I can write HTML content through JavaScript.";
-console.log(msg);
+const msg = "Yah! I can write HTML content through JavaScript.";
+const h1Element = document.createElement("h1");
+h1Element.append(msg);
+document.body.append(h1Element);
 
 // ===================================
 
 // Q9
-// Store the following string in a variable and show in alert and console.
+//  Store following string in a variable and show in alert and browser through JS.
 // String: "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"
-
-let designLine = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
-alert(designLine);
-console.log(designLine);
+const designStr = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(designStr);
+const h2Element = document.createElement("h2");
+h2Element.append(designStr);
+document.body.append(h2Element);
