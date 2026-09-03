@@ -122,24 +122,27 @@ document.body.append(q4Output);
 //       4x8=32
 //       4x9=36
 //       4x10=40"
-// prompt(""): Use for taking data form User
-let number = prompt("Enter a number to generate table", 5);
-// Number(): Use to convert only number string into number
-// parseInt(): Extracts integer (whole number) from the beginning of a string & convert into number
-// parseFloat(): Extracts decimal number from the beginning of a string & convert into number
-number = parseInt(number);
-console.log(`Table of ${number}`);
-// for(initialization; condition; increment){}: Use to creating loop
-// condition: how long loop run
-// <=: less than and equal to
-// +=: For adding & storing variable value
-// ++: For increment
-// loop to Generate Table
-let table = "";
-for (let i = 1; i <= 10; i++) {
-  table += `${number} x ${i} = ${number * i}\n`;
-}
-console.log(table);
+let userNum = prompt("Enter a number to generate table");
+const inputHandler = (tableNum) => {
+  if (tableNum === null || tableNum.trim() === "") {
+    alert("Please enter a valid number");
+  } else if (isNaN(tableNum)) {
+    alert("Please enter a valid number\ninput must be a number");
+  } else {
+    const tableTitle = `Table of ${tableNum}`;
+    let table = "";
+
+    for (let i = 1; i <= 10; i++) {
+      table += `${tableNum} x ${i} = ${tableNum * i} <br>`;
+    }
+
+    const q5Data = `${tableTitle} <br> ${table}`;
+    const q5Output = document.createElement("p");
+    q5Output.innerHTML = q5Data;
+    document.body.append(q5Output);
+  }
+};
+inputHandler(userNum);
 
 // ===================================
 
