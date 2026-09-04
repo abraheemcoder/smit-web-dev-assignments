@@ -1,5 +1,4 @@
-# SMIT - Web Development Assignments
-- GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments.git
+# [SMIT - Web Development Assignments](https://github.com/abraheemcoder/smit-web-dev-assignments.git)
 
 ## HTML Assignments
 - **Repository:** smit-web-dev-assignments/HTML - Assignments
@@ -8,31 +7,31 @@
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_01%20-%20Basic%20HTML%20Structure
 - Live Demo: https://basic-html-structure-01.vercel.app/
 
-### Assignment 02 – Basic HTML Structure Using Formatting Elements
+### Assignment 02 – Basic HTML Structure Using Formatting Elements [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_02%20-%20Basic%20HTML%20Structure%20Using%20Formatting%20Elements
 - Live Demo: https://basic-html-structure-using-formatting-elements-02.vercel.app/
 
-### Assignment 03 – Basic HTML Ecommerce Store
+### Assignment 03 – Basic HTML Ecommerce Store [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_03%20-%20Basic%20HTML%20Ecommerce%20Store
 - Live Demo: https://basic-html-ecommerce-store-03.vercel.app/
 
-### Assignment 04 – Basic HTML Ecommerce Store with Image
+### Assignment 04 – Basic HTML Ecommerce Store with Image [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_04%20-%20Basic%20HTML%20Ecommerce%20Store%20with%20Image
 - Live Demo: https://basic-html-ecommerce-store-with-image-04.vercel.app/
 
-### Assignment 05 – HTML Ecommerce Store
+### Assignment 05 – HTML Ecommerce Store [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_05%20-%20HTML%20Ecommerce%20Store
 - Live Demo: https://html-ecommerce-store-05.vercel.app/
 
-### Assignment 06 – HTML Table
+### Assignment 06 – HTML Table [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_06%20-%20HTML%20Table
 - Live Demo: https://html-table-06.vercel.app/
 
-### Assignment 07 – HTML Chess Board
+### Assignment 07 – HTML Chess Board [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_07%20-%20HTML%20Chess%20Board
 - Live Demo: https://html-chess-board-07.vercel.app/
 
-### Assignment 08 – HTML Student Registration Form
+### Assignment 08 – HTML Student Registration Form [(Not Submit)](#)
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_08%20-%20HTML%20Student%20Registration%20Form
 - Live Demo: https://html-student-registration-form-08.vercel.app/
 
