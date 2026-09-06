@@ -217,8 +217,8 @@
 ## [React Assignments](https://github.com/abraheemcoder/smit-web-dev-assignments/tree/91eaf53e18b4d5eb855f1162ec2dabfd614e3c9e/React%20-%20Assignments)
 
 ### Assignment 01 – React Setup [(Not Submit)](#)
-- GitHub: 
-- Live Demo: 
+- GitHub: https://github.com/abraheemcoder/react-setup.git
+- Live Demo: https://react-setup-01.vercel.app/
 
 ### Assignment 02 – React Counter App [(Not Submit)](#)
 - GitHub: 
