@@ -38,12 +38,16 @@ This showcase currently includes projects involving:
 
 Projects created as part of hackathon-based development and UI challenges.
 
-|   # | Project              | Source Code                                                                           | Live Demo                                         |
-| --: | -------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------- |
-|   1 | **Salt'n Pepper UI** | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-01-salt-n-pepper-ui) | [Live Demo](https://salt-n-pepper-ui.vercel.app/) |
-|   2 | **Helplytics AI UI** | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-02-helplytics-ai-ui) | [Live Demo](https://helplytics-ai-ui.vercel.app/) |
-|   3 | **Maintain IQ**      | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-03-maintain-iq)      | [Live Demo](https://maintain-iq-03.vercel.app/)   |
-|   4 | **QUICKSERVE WMA**   | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-04-quickserve-wma)   | [Live Demo](https://quickserve-wma.vercel.app/)   |
+|   # | Project              | Source Code & Live Demo                                                               |
+| --: | -------------------- | ------------------------------------------------------------------------------------- |
+|   1 | **Salt'n Pepper UI** | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-01-salt-n-pepper-ui) |
+|     |                      | [Live Demo](https://salt-n-pepper-ui.vercel.app/)                                     |
+|   2 | **Helplytics AI UI** | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-02-helplytics-ai-ui) |
+|     |                      | [Live Demo](https://helplytics-ai-ui.vercel.app/)                                     |
+|   3 | **Maintain IQ**      | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-03-maintain-iq)      |
+|     |                      | [Live Demo](https://maintain-iq-03.vercel.app/)                                       |
+|   4 | **QUICKSERVE WMA**   | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-04-quickserve-wma)   |
+|     |                      | [Live Demo](https://quickserve-wma.vercel.app/)                                       |
 
 ---
 
@@ -51,16 +55,17 @@ Projects created as part of hackathon-based development and UI challenges.
 
 Foundational projects focused on semantic HTML structure, formatting, tables, forms, and page construction.
 
-|   # | Project                                            | Source Code   | Live Demo                                                                          |
-| --: | -------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------- |
-|   1 | **Basic HTML Structure**                           | Not added yet | [Live Demo](https://basic-html-structure-01.vercel.app/)                           |
-|   2 | **Basic HTML Structure Using Formatting Elements** | Not added yet | [Live Demo](https://basic-html-structure-using-formatting-elements-02.vercel.app/) |
-|   3 | **Basic HTML E-Commerce Store**                    | Not added yet | [Live Demo](https://basic-html-ecommerce-store-03.vercel.app/)                     |
-|   4 | **HTML E-Commerce Store with Images**              | Not added yet | [Live Demo](https://basic-html-ecommerce-store-with-image-04.vercel.app/)          |
-|   5 | **HTML E-Commerce Store**                          | Not added yet | [Live Demo](https://html-ecommerce-store-05.vercel.app/)                           |
-|   6 | **HTML Table**                                     | Not added yet | [Live Demo](https://html-table-06.vercel.app/)                                     |
-|   7 | **HTML Chess Board**                               | Not added yet | [Live Demo](https://html-chess-board-07.vercel.app/)                               |
-|   8 | **Student Registration Form**                      | Not added yet | [Live Demo](https://html-student-registration-form-08.vercel.app/)                 |
+|                                                        # | Project                                            | Source code & Live Demo |
+| -------------------------------------------------------: | -------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------- |
+|                                                        1 | **Basic HTML Structure**                           | [GitHub]()              |
+| [Live Demo](https://basic-html-structure-01.vercel.app/) |
+|                                                        2 | **Basic HTML Structure Using Formatting Elements** | Not added yet           | [Live Demo](https://basic-html-structure-using-formatting-elements-02.vercel.app/) |
+|                                                        3 | **Basic HTML E-Commerce Store**                    | Not added yet           | [Live Demo](https://basic-html-ecommerce-store-03.vercel.app/)                     |
+|                                                        4 | **HTML E-Commerce Store with Images**              | Not added yet           | [Live Demo](https://basic-html-ecommerce-store-with-image-04.vercel.app/)          |
+|                                                        5 | **HTML E-Commerce Store**                          | Not added yet           | [Live Demo](https://html-ecommerce-store-05.vercel.app/)                           |
+|                                                        6 | **HTML Table**                                     | Not added yet           | [Live Demo](https://html-table-06.vercel.app/)                                     |
+|                                                        7 | **HTML Chess Board**                               | Not added yet           | [Live Demo](https://html-chess-board-07.vercel.app/)                               |
+|                                                        8 | **Student Registration Form**                      | Not added yet           | [Live Demo](https://html-student-registration-form-08.vercel.app/)                 |
 
 ---
 

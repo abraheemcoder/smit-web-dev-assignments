@@ -1,11 +1,36 @@
-# Web Development Projects
+# Web Development Projects Showcase
 
-Welcome to my Web Development Projects showcase!
+A curated collection of web development projects built throughout my learning journey, from foundational HTML and CSS exercises to JavaScript applications, API-based projects, hackathons, and React development.
 
-This repository contains the source code and live demos of projects I built while learning modern web development.
-The projects cover HTML, CSS, Bootstrap, TailwindCss, JavaScript, React, responsive design, DOM manipulation, and API integration & more.
+> Explore the source code and live demo of each available project below.
 
-> Click any project below to explore the source code & live demo.
+## Project Overview
+
+| Category             | Projects |
+| -------------------- | -------: |
+| Hackathon Projects   |        4 |
+| HTML Projects        |        8 |
+| CSS & CSS Frameworks |       14 |
+| JavaScript Projects  |       14 |
+| React Projects       |        3 |
+| **Total Listed**     |   **43** |
+
+## Technologies & Concepts
+
+This showcase currently includes projects involving:
+
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- JavaScript
+- React
+- Responsive Web Design
+- DOM Manipulation
+- Form Validation
+- Client-side Logic
+- API Integration
+- Authentication & UI Flows
 
 ---
  
