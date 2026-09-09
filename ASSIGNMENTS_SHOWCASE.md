@@ -54,7 +54,7 @@
 - GitHub: https://github.com/abraheemcoder/smit-web-dev-assignments/tree/93076293ed86e1276c6157fea7fecfe71f18d743/HTML%20-%20Assignments/Assignment_08%20-%20HTML%20Student%20Registration%20Form
 - Live Demo: https://html-student-registration-form-08.vercel.app/
 
-...
+... 
 
 ## [CSS Assignments](https://github.com/abraheemcoder/smit-web-dev-assignments/tree/91eaf53e18b4d5eb855f1162ec2dabfd614e3c9e/CSS%20-%20Assignments)
 
