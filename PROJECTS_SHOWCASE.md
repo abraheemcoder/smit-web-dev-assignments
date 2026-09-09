@@ -41,7 +41,7 @@ Projects created as part of hackathon-based development and UI challenges.
 |   # | Project              | Source Code & Live Demo                                                               |
 | --: | -------------------- | ------------------------------------------------------------------------------------- |
 |   1 | **Salt'n Pepper UI** | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-01-salt-n-pepper-ui) |
-|     |                      | [Live Demo](https://salt-n-pepper-ui.vercel.app/)                                     |
+|     |                      | [Live Demo](https://salt-n-pepper-ui.vercel.app/) - To Preview in Browser (Use: Ctrl + Click) |
 |   2 | **Helplytics AI UI** | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-02-helplytics-ai-ui) |
 |     |                      | [Live Demo](https://helplytics-ai-ui.vercel.app/)                                     |
 |   3 | **Maintain IQ**      | [GitHub](https://github.com/abraheemcoder/smit-hackathon-project-03-maintain-iq)      |
