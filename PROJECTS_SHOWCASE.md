@@ -146,10 +146,10 @@ This showcase currently includes projects involving:
 
 |   # | Project                                            | Source Code & Live Demo                                   |
 | --: | -------------------------------------------------- | --------------------------------------------------------- |
-|   1 | **React Setup**                                    | [GitHub]() |
-|     |                                                    | [Live Demo]() |
-|   2 | **React Counter App**                              | [GitHub]() |
-|     |                                                    | [Live Demo]() |
+|   1 | **React Setup**                                    | [GitHub](https://github.com/abraheemcoder/react-setup.git) |
+|     |                                                    | [Live Demo](https://react-setup-01.vercel.app/) |
+|   2 | **React Counter App**                              | [GitHub](https://github.com/abraheemcoder/react-counter-app.git) |
+|     |                                                    | [Live Demo](https://react-counter-app-02.vercel.app/) |
 |   3 | **React Advice App**                               | [GitHub]() |
 |     |                                                    | [Live Demo]() |
 |   4 | **React login Auth System**                        | [GitHub]() |
@@ -160,8 +160,10 @@ This showcase currently includes projects involving:
 |     |                                                    | [Live Demo]() |
 |   7 | **React Router Dom App**                           | [GitHub]() |
 |     |                                                    | [Live Demo]() |
-|   8 | ****                                               | [GitHub]() |
-|     |                                                    | [Live Demo]() |
+|   8 | **React Firebase Blog App**                        | [GitHub](https://github.com/abraheemcoder/react-firebase-blog-app.git) |
+|     |                                                    | [Live Demo](https://react-firebase-blog-app-08.vercel.app/) |
+|   9 | **React Redux Counter App**                        | [GitHub](https://github.com/abraheemcoder/react-redux-counter-app.git) |
+|     |                                                    | [Live Demo](https://react-redux-counter-app-09.vercel.app/) |
 
 ---
 

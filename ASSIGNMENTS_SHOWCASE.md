@@ -220,15 +220,15 @@
 - GitHub: https://github.com/abraheemcoder/react-setup.git
 - Live Demo: https://react-setup-01.vercel.app/
 
-### Assignment 02 – React Counter App [Not Submit & Complete](#)
-- GitHub: 
-- Live Demo: 
+### Assignment 02 – React Counter App
+- GitHub: https://github.com/abraheemcoder/react-counter-app.git
+- Live Demo: https://react-counter-app-02.vercel.app/
 
 ### Assignment 03 – React Advice App [Not Submit & Complete](#)
 - GitHub: 
 - Live Demo: 
 
-### Assignment 04 – React login Auth System [Not Submit & Complete](#)
+### Assignment 04 – React Auth System [Not Submit & Complete](#)
 - GitHub: 
 - Live Demo: 
 
@@ -244,9 +244,13 @@
 - GitHub: 
 - Live Demo: 
 
-### Assignment 08 – 
-- GitHub: 
-- Live Demo: 
+### Assignment 08 – React Firebase Blog App [Not Complete](#)
+- GitHub: https://github.com/abraheemcoder/react-firebase-blog-app.git
+- Live Demo: https://react-firebase-blog-app-08.vercel.app/
+
+### Assignment 09 - React Redux Counter App
+- GitHub: https://github.com/abraheemcoder/react-redux-counter-app.git
+- Live Demo: https://react-redux-counter-app-09.vercel.app/
 
 ### [Assignment - React Practice](https://github.com/abraheemcoder/coding-practice/tree/c0e60c6482ffceb833c176f8643cd5f1d6f7f77c/03-javascript-practice) 
 
