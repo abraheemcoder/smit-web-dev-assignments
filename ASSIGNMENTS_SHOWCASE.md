@@ -87,7 +87,7 @@
 - Live Demo: https://apple-store-clone-ui.vercel.app/
 
 ### Assignment 08 – Flexbox Froggy Game - All Levels Solution [Not Submit & Complete](#)
-- GitHub: https://github.com/abraheemcoder/coding-games-solution/tree/8da5b4070afd356ad23bf2a5f9b1b189adf0a8b7/Flexbox%20Froggy%20Game%20-%20All%20Levels%20Solution
+- GitHub: https://github.com/abraheemcoder/coding-games-solution/tree/bcb840d72824fa7635170d5cdb21e8136627aa58/css-games/flexbox-froggy-game
 
 ### Assignment 09 – Facebook Login Page UI [Not Submit & Complete](#)
 - GitHub: https://github.com/abraheemcoder/facebook-login-page-ui.git
@@ -98,7 +98,7 @@
 - Live Demo: https://saylani-clone-ui.vercel.app/
 
 ### Assignment 11 – Grid Garden Game - All Levels Solution [Not Submit & Complete](#)
-- GitHub: https://github.com/abraheemcoder/coding-games-solution/tree/8da5b4070afd356ad23bf2a5f9b1b189adf0a8b7/Grid%20Garden%20Game%20-%20All%20Levels%20Solution
+- GitHub: https://github.com/abraheemcoder/coding-games-solution/tree/bcb840d72824fa7635170d5cdb21e8136627aa58/css-games/grid-garden-game
 
 ### Assignment 12 – Facebook Signup Page UI [Not Complete](#)
 - GitHub: https://github.com/abraheemcoder/facebook-signup-page-ui.git
